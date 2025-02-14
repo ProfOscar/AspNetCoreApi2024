@@ -12,3 +12,5 @@
 * Implementazione di GET singola, POST, PUT, DELETE
 * Sql Injection e SQLParameters
 
+### Terza Lezione
+* Abilitato CORS per utilizzo con applicazione angular MyRecipes
